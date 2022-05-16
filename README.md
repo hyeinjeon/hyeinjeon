@@ -2,9 +2,7 @@
   
 ## Hi~💚 Nice to meet you🥰
   
-  <hr>
-  
-#### Welcome to my page👽
+#### Welcome to my page 👽
 #### I'm Dongduk Women University Student in Seoul✨
 #### 💌My Email : hayleyjhi@naver.com
 #### ⛅My Blog : https://like-a-flowing-cloud.tistory.com/
