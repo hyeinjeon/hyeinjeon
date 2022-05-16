@@ -1,8 +1,10 @@
 <div align="left">  
 <br/> 
 
-### Hi~💚 Nice to meet you🥰
+## Hi~💚 Nice to meet you🥰
+  
   <hr>
+  
 #### Welcome to my page👽
 #### I'm Dongduk Women University Student in Seoul✨
 #### 💌My Email : hayleyjhi@naver.com
