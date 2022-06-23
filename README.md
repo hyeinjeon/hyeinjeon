@@ -45,11 +45,11 @@
   <br />
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeinjeon&layout=compact&theme=vue&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeinjeon&layout=compact&theme=tokyonight&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) 
 
 <br />
 
-![hyeinjeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinjeon&show_icons=true&theme=vue)
+![hyeinjeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinjeon&show_icons=true&theme=tokyonight)
 
 
   
