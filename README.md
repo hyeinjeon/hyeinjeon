@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/57359259/175299314-578fae7a-e61c-40c6-b8ca-e46dab44c83b.png" width="20%" height="20%"/>
   
 #### My name is Hyein, from South Korea 💚
-#### I'm Dongduk Women University Student in Seoul ✨
+#### I'm a Dongduk Women University Student in Seoul ✨
   
 <hr />
   
