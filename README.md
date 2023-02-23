@@ -2,7 +2,7 @@
   
 ### Hi~💚 Nice to meet you 👽
 #### Welcome to my page!  
-#### My name is Hyein, from South Korea 💚
+#### My name is Hyein, from South Korea 
   
 ##### 💌 My Email : hayleyjhi@naver.com
 ##### ⛅ My Blog : https://like-a-flowing-cloud.tistory.com/
