@@ -1,16 +1,13 @@
 <div align="left">  
   
-# Hi~💚 Nice to meet you 👽
-  
-<img src="https://user-images.githubusercontent.com/57359259/175299314-578fae7a-e61c-40c6-b8ca-e46dab44c83b.png" width="10%" height="10%"/>
-
+### Hi~💚 Nice to meet you 👽
 #### Welcome to my page!  
 #### My name is Hyein, from South Korea 💚
   
-<hr />
+##### 💌 My Email : hayleyjhi@naver.com
+##### ⛅ My Blog : https://like-a-flowing-cloud.tistory.com/
   
-### 💌 My Email : hayleyjhi@naver.com
-### ⛅ My Blog : https://like-a-flowing-cloud.tistory.com/
+
   
 <hr />
 </div>
